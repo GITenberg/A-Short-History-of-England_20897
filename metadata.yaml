@@ -1,0 +1,39 @@
+_repo: A-Short-History-of-England_20897
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: G. K. Chesterton has committed a great sin; he has written a didactic
+  poem, a work of art, and has called it history. It is no easy thing to give a list
+  of all the complex sanctities that he has violated by this one act; as a mere incident
+  in the accomplishment of his main purpose he has arrayed against himself anti-Catholics,
+  materialists, aristocrats, plutocrats, and the whole tribe of scientific historians.
+  But it is true of Chesterton's ""History of England,"" as it is true of any work
+  of art, that the sanctities which it violates are not so important as the vision
+  which inspir.
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2007-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20897'
+  lccn: '17029758'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History'
+title: A Short History of England
+url: http://www.gutenberg.org/ebooks/20897
